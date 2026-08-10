@@ -249,3 +249,17 @@ Software Engineering
 
 </div>
 
+---
+
+<div align="center">
+
+### 🚀 Building • Learning • Improving
+
+<img src="https://komarev.com/ghpvc/?username=vijayshree1603&style=for-the-badge&color=blue&label=PROFILE+VIEWS" alt="Profile views" />
+
+<br><br>
+
+⭐ **Thanks for visiting my profile!**
+
+</div>
+

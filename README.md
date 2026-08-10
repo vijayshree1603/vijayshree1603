@@ -157,39 +157,63 @@ Key concepts:
 </div>
 
 
-## 🎯 Currently Learning
+## 🎯 Current Focus
 
-```text
-DSA & Problem Solving
-        ↓
-Java for Technical Interviews
-        ↓
-Data Engineering
-        ↓
-Cloud & DevOps
-        ↓
-Full-Stack Development
-```
+I'm currently focused on strengthening my skills in:
+
+* 🧩 **Data Structures & Algorithms**
+* ☕ **Java for Technical Interviews**
+* 🐍 **Python Development**
+* 📊 **Data Engineering & SQL**
+* ☁️ **Cloud & DevOps**
+* 🌐 **Full-Stack Development**
 
 ---
 
-## 📜 Certifications & Learning
+## 📜 Certifications & Experience
+
+### 🏆 Certifications
 
 * 🐍 **Crash Course on Python** — Google
 * 📊 **Python 101 for Data Science** — IBM
 * 🤖 **Introduction to Generative AI** — Simplilearn
 * ☕ **Java (Basic)** — HackerRank
-* 📈 **AI & Data Analytics Virtual Internship** — AICTE / Shell India / Edunet Foundation
+
+### 💼 Internship
+
+**AI & Data Analytics Virtual Internship**
+
+AICTE • Shell India • Edunet Foundation
+*July 2025 – August 2025*
+
+Worked with Python and Power BI while exploring data analytics and AI-related workflows.
 
 ---
 
 ## 🎓 Education
 
-**B.E. Information Science & Engineering**
+**Bachelor of Engineering — Information Science & Engineering**
 
-Acharya Institute of Technology, Bengaluru
+**Acharya Institute of Technology, Bengaluru**
 
 ---
+
+## 💡 Career Interests
+
+I'm interested in opportunities involving:
+
+```text
+Software Engineering
+        │
+        ├── Backend Development
+        ├── Full-Stack Development
+        │
+        ├── Data Engineering
+        │
+        ├── Cloud & DevOps
+        │
+        └── Data & AI
+```
 
 ## 🤝 Connect With Me
 

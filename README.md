@@ -219,22 +219,23 @@ Software Engineering
 
 <div align="center">
 
-<a href="https://github.com/vijayshree1603">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+<a href="https://www.linkedin.com/in/vijayshree-selva-214092297/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/vijayshree-selva-214092297/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
+<a href="https://github.com/vijayshree1603">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-### 💡 Building. Learning. Improving. 🚀
+💼 **Open to Software Engineering, Data Engineering & Full-Stack opportunities**
 
-<img src="https://komarev.com/ghpvc/?username=vijayshree1603&style=flat-square&color=blue" alt="Profile views">
+📍 Bengaluru, India
 
 </div>
+

@@ -228,6 +228,16 @@ Software Engineering
 </a>
 
 </div>
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vijayshree1603&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+
+</div>
+
 
 <br>
 

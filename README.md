@@ -1,22 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=200&section=header&text=S%20Vijayshree&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:6D28D9&height=220&section=header&text=S%20VIJAYSHREE&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Aspiring+Data+Engineer;Full-Stack+Developer;Python+%7C+Java+%7C+SQL;Building+Real-World+Projects" alt="Typing SVG" />
-
-</div>
-
-
-### 💻 Aspiring Software Engineer | Data Engineer | Full-Stack Developer
-
-<p>
-  <a href="https://github.com/vijayshree1603">
-    <img src="https://img.shields.io/badge/GitHub-vijayshree1603-181717?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://www.linkedin.com/in/vijayshree-selva-214092297/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=750&lines=Aspiring+Software+Engineer;Aspiring+Data+Engineer;Full-Stack+Developer;Python+%7C+Java+%7C+SQL;Building+Real-World+Projects" alt="Typing SVG" />
 
 </div>
 
@@ -30,11 +16,11 @@
 
 🐍 Working with **Python, Java and SQL**
 
-🚀 Building real-world projects using **FastAPI, React, Docker and GitHub Actions**
+🚀 Building real-world applications using **FastAPI, React, Docker and GitHub Actions**
 
 📊 Interested in **ETL pipelines, APIs, databases and data-driven applications**
 
-🌱 Currently strengthening my **DSA, Data Engineering and Cloud skills**
+🌱 Currently strengthening my skills in **DSA, Data Engineering, Cloud and Software Development**
 
 ---
 
@@ -42,31 +28,31 @@
 
 ### 💻 Languages
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts" />
 </p>
 
 ### 🌐 Frontend
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind" />
 </p>
 
 ### ⚙️ Backend & APIs
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" />
 </p>
 
 ### 🗄️ Databases
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
 </p>
 
 ### 📊 Data & Machine Learning
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
@@ -74,18 +60,23 @@
 
 ### ☁️ Cloud & DevOps
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,aws" />
 </p>
 
+---
 
 ## 🚀 Featured Projects
+
+> **Note:** This section is temporary. We'll update it after you add your remaining projects and decide which projects should be featured.
 
 ### 🛒 Cloud-Native Retail Data Engineering Platform
 
 **Python • Pandas • SQL • PostgreSQL • FastAPI • React • Docker • GitHub Actions**
 
-A production-style retail data engineering platform that demonstrates:
+A cloud-ready retail data engineering platform demonstrating an end-to-end data pipeline and analytics workflow.
+
+**Highlights**
 
 * 🔄 ETL and data transformation
 * ✅ Data validation
@@ -93,7 +84,7 @@ A production-style retail data engineering platform that demonstrates:
 * 🚀 FastAPI REST APIs
 * ⚛️ React dashboard
 * 🐳 Dockerized services
-* 🔁 CI/CD with GitHub Actions
+* 🔁 GitHub Actions CI/CD
 * 🧪 Automated testing
 
 🔗 **[View Project](https://github.com/vijayshree1603/cloud-native-retail-data-engineering)**
@@ -106,13 +97,14 @@ A production-style retail data engineering platform that demonstrates:
 
 A full-stack application designed to help KCET students explore college and branch options using historical cutoff information and admission trends.
 
-Key features:
+**Highlights**
 
 * 📊 Historical cutoff analysis
 * 🎯 College recommendations
 * 🏫 Branch selection
 * 📈 Admission trend analysis
 * 💻 Interactive web interface
+* 📚 Data-driven recommendations
 
 🔗 **[View Project](https://github.com/vijayshree1603/kcet-college-finder)**
 
@@ -124,7 +116,7 @@ Key features:
 
 A resource-aware workload scheduling system designed to distribute tasks based on worker resource availability.
 
-Key concepts:
+**Highlights**
 
 * ⚡ Resource-aware scheduling
 * 🖥️ Worker management
@@ -142,7 +134,7 @@ Key concepts:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vijayshree1603&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=vijayshree1603&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayshree1603&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" />
 
@@ -156,6 +148,7 @@ Key concepts:
 
 </div>
 
+---
 
 ## 🎯 Current Focus
 
@@ -183,7 +176,7 @@ I'm currently focused on strengthening my skills in:
 
 **AI & Data Analytics Virtual Internship**
 
-AICTE • Shell India • Edunet Foundation
+**AICTE • Shell India • Edunet Foundation**
 *July 2025 – August 2025*
 
 Worked with Python and Power BI while exploring data analytics and AI-related workflows.
@@ -215,19 +208,32 @@ Software Engineering
         └── Data & AI
 ```
 
+---
+
 ## 🤝 Connect With Me
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/vijayshree-selva-214092297/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 
 <a href="https://github.com/vijayshree1603">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+<a href="https://www.linkedin.com/in/vijayshree-selva-214092297/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 </div>
+
+<br>
+
+<div align="center">
+
+💼 **Open to Software Engineering, Data Engineering & Full-Stack opportunities**
+
+📍 **Bengaluru, India**
+
+</div>
+
 ---
 
 ## 📈 Contribution Activity
@@ -238,28 +244,18 @@ Software Engineering
 
 </div>
 
-
-<br>
-
-<div align="center">
-
-💼 **Open to Software Engineering, Data Engineering & Full-Stack opportunities**
-
-📍 Bengaluru, India
-
-</div>
-
 ---
 
 <div align="center">
 
-### 🚀 Building • Learning • Improving
+### 🌌 Building • Learning • Improving
 
-<img src="https://komarev.com/ghpvc/?username=vijayshree1603&style=for-the-badge&color=blue&label=PROFILE+VIEWS" alt="Profile views" />
+**Turning ideas into real-world software. 🚀**
+
+<img src="https://komarev.com/ghpvc/?username=vijayshree1603&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS" alt="Profile views" />
 
 <br><br>
 
 ⭐ **Thanks for visiting my profile!**
 
 </div>
-

@@ -40,39 +40,44 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming
+### 💻 Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts">
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts" />
 </p>
 
-### 🌐 Web Development
+### 🌐 Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind">
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind" />
 </p>
 
 ### ⚙️ Backend & APIs
 
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs">
+<p align="left">
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" />
 </p>
 
-### 🗄️ Databases & Data
+### 🗄️ Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite">
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite" />
 </p>
 
-**Data & Analytics:** Pandas • NumPy • Matplotlib • Scikit-learn
+### 📊 Data & Machine Learning
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+**Libraries:** Pandas • NumPy • Matplotlib • Scikit-learn
 
 ### ☁️ Cloud & DevOps
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,aws">
+<p align="left">
+<img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,aws" />
 </p>
 
----
 
 ## 🚀 Featured Projects
 

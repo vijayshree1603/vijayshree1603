@@ -1,6 +1,11 @@
 <div align="center">
 
-# 👋 Hi, I'm **S Vijayshree**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=200&section=header&text=S%20Vijayshree&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Aspiring+Data+Engineer;Full-Stack+Developer;Python+%7C+Java+%7C+SQL;Building+Real-World+Projects" alt="Typing SVG" />
+
+</div>
+
 
 ### 💻 Aspiring Software Engineer | Data Engineer | Full-Stack Developer
 
